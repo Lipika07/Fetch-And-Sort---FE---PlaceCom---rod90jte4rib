@@ -13,7 +13,7 @@ const App = () => {
       <button className="fetch-data-btn">Fetch User Data</button>
       <button className="sort-btn">
         "Sort by name length (ascending)"
-        "Sort by name length (descending)"
+        "Sort by name length 1(descending)"
       </button>
       <p>Loading...</p>
       <div className='users-section'>
